@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+        "mocha": true
+    },
+    "rules": {
+        "linebreak-style": 0,
+        "global-require": 0,
+        "no-param-reassign":"off",
+        "max-len":"off",
+        "no-console":"off",
+        "eslint linebreak-style": [0, "error", "windows"]}
+}
