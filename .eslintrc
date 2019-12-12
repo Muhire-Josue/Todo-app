@@ -9,5 +9,8 @@
         "no-param-reassign":"off",
         "max-len":"off",
         "no-console":"off",
+        "func-names":"off",
+        "space-before-function-paren": "off",
+        "no-unused-vars": "off",
         "eslint linebreak-style": [0, "error", "windows"]}
 }
